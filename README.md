@@ -14,20 +14,22 @@ Concepts Used: Collaborative Filtering, Cosine Similarity, Correlation
 
 Tools: PyCharm, Streamlit, Jupyter Notebook
 
-Dataset: Kaggle MovieLens dataset
+Dataset: **TMDB** dataset
 
 #### ⚙️ How It Works
 
-1️⃣ Load and preprocess movie & rating datasets
-2️⃣ Create a user-movie interaction matrix
+1️⃣ Load and preprocess movie & rating datasets.
+
+2️⃣ Create a user-movie interaction matrix.
+
 3️⃣ Apply similarity algorithms:
 
 Cosine Similarity
-
 Pearson Correlation
 
-4️⃣ Find users with similar taste
-5️⃣ Recommend movies those similar users liked but the target user hasn’t watched
+4️⃣ Find users with similar taste.
+
+5️⃣ Recommend movies those similar users liked but the target user hasn’t watched.
 
 #### 📊 Features Implemented
 
