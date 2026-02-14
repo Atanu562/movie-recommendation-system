@@ -59,4 +59,9 @@ Hands-on experience with data preprocessing & feature engineering
 
 Implemented real-world collaborative filtering logic
 
-Built an end-to-end ML application (Dataset → Model → UI)
+Built an end-to-end ML application (Dataset → Model → UI).
+
+#### Run in terminal
+pip install streamlit
+
+streamlit run app.py
